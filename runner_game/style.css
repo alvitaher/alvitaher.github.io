@@ -49,11 +49,11 @@
 }
 
 #animate {
-   animation:walk 1s steps(6) infinite,
+   animation:run 1s steps(6) infinite,
       forward 4s linear infinite;
 }
 
-@keyframes walk{
+@keyframes run{
    0%{
       background-position: 0px;
    }
