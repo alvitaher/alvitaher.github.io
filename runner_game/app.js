@@ -3,7 +3,7 @@
 const players = [
     "playerOne", 
     "playerTwo", 
-    "playerThree", 
+    "playerThree",  
     "playerFour"
     
 ];
@@ -27,4 +27,4 @@ const initializeButtons = () => {
 
 }
 
-initializeButtons();
+initializeButtons(); 
